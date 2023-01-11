@@ -29,7 +29,10 @@ We worked with the following models :
 <img
      src="https://github.com/Wazzabeee/twitter-sentiment-analysis/blob/main/images/summary.png"
      />
-     
+    
+## Google Cloud Cluster (Dataproc)
+In the notebooks directory, you'll find the a Python file called "cluster_logistic_job.py" if you are curious and you want to see how we ran our models in the Cloud. 
+
 ## ETL Pipeline & Live Sentiment Analysis
 Another part of this project was to implement an ETL Pipeline with Live Sentiment Analysis using our pre-trained model, Spark Streaming, Apache Kafka and Docker. You can check it out here.
 
