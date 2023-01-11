@@ -31,5 +31,5 @@ We worked with the following models :
      />
      
 ## ETL Pipeline & Live Sentiment Analysis
-Another part of this project was to implement an [ETL Pipeline with Live Sentiment Analysis](add link) using Spark Streaming / Apache Kafka and Docker. You can check it out here.
+Another part of this project was to implement an ETL Pipeline with Live Sentiment Analysis using our pre-trained model, Spark Streaming, Apache Kafka and Docker. You can check it out here.
 
