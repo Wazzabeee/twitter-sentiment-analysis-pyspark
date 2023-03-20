@@ -12,7 +12,6 @@ We worked with the following models :
 - Naive Bayes
 - Random Forest
 - Decision Tree
-- Random Forest
  
 ## Features tested
 - Hashing TF-IDF
