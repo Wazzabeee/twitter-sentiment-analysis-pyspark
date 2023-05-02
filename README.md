@@ -33,5 +33,4 @@ We worked with the following models :
 In the notebooks directory, you'll find the a Python file called "cluster_logistic_job.py" if you are curious and you want to see how we ran our models in the Cloud. 
 
 ## ETL Pipeline & Live Sentiment Analysis
-Another part of this project was to implement an ETL Pipeline with Live Sentiment Analysis using our pre-trained model, Spark Streaming, Apache Kafka and Docker. It will soon be uploaded to this repo !
-
+Another part of this project was to implement an ETL Pipeline with Live Sentiment Analysis using our pre-trained model, Spark Streaming, Apache Kafka and Docker. [The repository for this part is available here](https://github.com/Wazzabeee/pyspark-etl-twitter/tree/main).
